@@ -155,3 +155,6 @@
 {"n":155,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north gutter. direct left open. 8 steps. The crate stays for the hold."}
 {"n":156,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the crate at Drydock. Nobody past the north gutter. We hold in 2 steps. Direct on the left lane, open."}
 {"n":157,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north gutter. Nia keeps the crate for the hold. 3 steps, direct on the left lane, open."}
+{"n":158,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north gutter. direct left open. 4 steps. The crate stays for the hold."}
+{"n":159,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at Drydock. Nobody past the north gutter. We hold in 5 steps. Direct on the left lane, open."}
+{"n":160,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock north gutter. Ivo keeps the crate for the hold. 6 steps, direct on the left lane, open."}
