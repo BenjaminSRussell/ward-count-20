@@ -410,3 +410,6 @@
 {"n":410,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south gutter. direct left open. 8 steps. The radio coil stays for the hold."}
 {"n":411,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at Stockyard fence. Nobody past the south gutter. We hold in 2 steps. Direct on the left lane, open."}
 {"n":412,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence south gutter. Ivo keeps the radio coil for the hold. 3 steps, direct on the left lane, open."}
+{"n":413,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south gutter. direct left open. 4 steps. The radio coil stays for the hold."}
+{"n":414,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the south gutter. We hold in 5 steps. Direct on the left lane, open."}
+{"n":415,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence south gutter. Bess keeps the radio coil for the hold. 6 steps, direct on the left lane, open."}
