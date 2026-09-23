@@ -866,3 +866,6 @@
 {"n":866,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Ward gate. Nobody past the south gutter. We hold in 4 steps. Direct on the left lane, open."}
 {"n":867,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south gutter. Bess keeps the barrel for the hold. 5 steps, direct on the left lane, open."}
 {"n":868,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south gutter. direct left open. 6 steps. The barrel stays for the hold."}
+{"n":869,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Kessler alley. Nobody past the south gutter. We hold in 7 steps. Direct on the left lane, open."}
+{"n":870,"kind":"place","name":"Kessler alley south gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley south gutter. Matt keeps the barrel for the hold. 8 steps, direct on the left lane, open."}
+{"n":871,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south gutter. direct left open. 2 steps. The barrel stays for the hold."}
