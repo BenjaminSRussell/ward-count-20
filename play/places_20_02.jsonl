@@ -213,3 +213,6 @@
 {"n":213,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south gutter. direct left open. 8 steps. The lamp stays for the hold."}
 {"n":214,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Kessler alley. Nobody past the south gutter. We hold in 2 steps. Direct on the left lane, open."}
 {"n":215,"kind":"place","name":"Kessler alley south gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley south gutter. Bess keeps the lamp for the hold. 3 steps, direct on the left lane, open."}
+{"n":216,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south gutter. direct left open. 4 steps. The lamp stays for the hold."}
+{"n":217,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at the Lot. Nobody past the south gutter. We hold in 5 steps. Direct on the left lane, open."}
+{"n":218,"kind":"place","name":"the Lot south gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot south gutter. Matt keeps the lamp for the hold. 6 steps, direct on the left lane, open."}
