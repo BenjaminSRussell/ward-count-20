@@ -261,3 +261,6 @@
 {"n":261,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south gutter. direct left open. 7 steps. The lamp stays for the hold."}
 {"n":262,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at the Underpass. Nobody past the south gutter. We hold in 8 steps. Direct on the left lane, open."}
 {"n":263,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass south gutter. Bess keeps the lamp for the hold. 2 steps, direct on the left lane, open."}
+{"n":264,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south gutter. direct left open. 3 steps. The lamp stays for the hold."}
+{"n":265,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Mast yard. Nobody past the south gutter. We hold in 4 steps. Direct on the left lane, open."}
+{"n":266,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard south gutter. Matt keeps the lamp for the hold. 5 steps, direct on the left lane, open."}
