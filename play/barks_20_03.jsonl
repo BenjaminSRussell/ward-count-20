@@ -532,3 +532,6 @@
 {"n":532,"kind":"place","name":"High line south gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line south gutter. Ivo keeps the radio coil for the hold. 4 steps, direct on the left lane, open."}
 {"n":533,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south gutter. direct left open. 5 steps. The radio coil stays for the hold."}
 {"n":534,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at High line. Nobody past the south gutter. We hold in 6 steps. Direct on the left lane, open."}
+{"n":535,"kind":"place","name":"High line south gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south gutter. Bess keeps the radio coil for the hold. 7 steps, direct on the left lane, open."}
+{"n":536,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south gutter. direct left open. 8 steps. The radio coil stays for the hold."}
+{"n":537,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Ward gate. Nobody past the west stair. We hold in 2 steps. Direct on the left lane, open."}
