@@ -583,3 +583,6 @@
 {"n":583,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at the Lot. Nobody past the east stair. We hold in 4 steps. Direct on the left lane, open."}
 {"n":584,"kind":"place","name":"the Lot east stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east stair. Ivo keeps the plywood for the hold. 5 steps, direct on the left lane, open."}
 {"n":585,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east stair. direct left open. 6 steps. The plywood stays for the hold."}
+{"n":586,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at the Lot. Nobody past the east stair. We hold in 7 steps. Direct on the left lane, open."}
+{"n":587,"kind":"place","name":"the Lot east stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east stair. Bess keeps the plywood for the hold. 8 steps, direct on the left lane, open."}
+{"n":588,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east stair. direct left open. 2 steps. The plywood stays for the hold."}
