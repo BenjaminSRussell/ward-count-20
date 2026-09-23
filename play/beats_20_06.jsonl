@@ -822,3 +822,6 @@
 {"n":822,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Last Light. Nobody past the east stair. We hold in 4 steps. Direct on the left lane, open."}
 {"n":823,"kind":"place","name":"Last Light east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light east stair. Bess keeps the shutter for the hold. 5 steps, direct on the left lane, open."}
 {"n":824,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east stair. direct left open. 6 steps. The shutter stays for the hold."}
+{"n":825,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at South stair. Nobody past the east stair. We hold in 7 steps. Direct on the left lane, open."}
+{"n":826,"kind":"place","name":"South stair east stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair east stair. Matt keeps the shutter for the hold. 8 steps, direct on the left lane, open."}
+{"n":827,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east stair. direct left open. 2 steps. The shutter stays for the hold."}
