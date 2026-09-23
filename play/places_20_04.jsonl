@@ -934,3 +934,6 @@
 {"n":934,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west stair. direct left open. 6 steps. The awning stays for the hold."}
 {"n":935,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at Mall court. Nobody past the west stair. We hold in 7 steps. Direct on the left lane, open."}
 {"n":936,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court west stair. Ivo keeps the awning for the hold. 8 steps, direct on the left lane, open."}
+{"n":937,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west stair. direct left open. 2 steps. The awning stays for the hold."}
+{"n":938,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Mall court. Nobody past the west stair. We hold in 3 steps. Direct on the left lane, open."}
+{"n":939,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west stair. Bess keeps the awning for the hold. 4 steps, direct on the left lane, open."}
