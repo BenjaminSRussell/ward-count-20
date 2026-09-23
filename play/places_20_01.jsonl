@@ -25,3 +25,6 @@
 {"n":25,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north gutter. direct left open. 3 steps. The drum stays for the hold."}
 {"n":26,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Ward gate. Nobody past the north gutter. We hold in 4 steps. Direct on the left lane, open."}
 {"n":27,"kind":"place","name":"Ward gate north gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate north gutter. Bess keeps the drum for the hold. 5 steps, direct on the left lane, open."}
+{"n":28,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north gutter. direct left open. 6 steps. The drum stays for the hold."}
+{"n":29,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Kessler alley. Nobody past the north gutter. We hold in 7 steps. Direct on the left lane, open."}
+{"n":30,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley north gutter. Matt keeps the drum for the hold. 8 steps, direct on the left lane, open."}
