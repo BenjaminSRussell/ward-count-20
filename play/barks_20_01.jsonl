@@ -393,3 +393,6 @@
 {"n":393,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence north gutter. Nia keeps the radio coil for the hold. 7 steps, direct on the left lane, open."}
 {"n":394,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north gutter. direct left open. 8 steps. The radio coil stays for the hold."}
 {"n":395,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at Stockyard fence. Nobody past the north gutter. We hold in 2 steps. Direct on the left lane, open."}
+{"n":396,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence north gutter. Ivo keeps the radio coil for the hold. 3 steps, direct on the left lane, open."}
+{"n":397,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north gutter. direct left open. 4 steps. The radio coil stays for the hold."}
+{"n":398,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the north gutter. We hold in 5 steps. Direct on the left lane, open."}
