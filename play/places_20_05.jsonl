@@ -369,3 +369,6 @@
 {"n":369,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west stair. direct left open. 7 steps. The badge door stays for the hold."}
 {"n":370,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Drydock. Nobody past the west stair. We hold in 8 steps. Direct on the left lane, open."}
 {"n":371,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west stair. Bess keeps the badge door for the hold. 2 steps, direct on the left lane, open."}
+{"n":372,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west stair. direct left open. 3 steps. The badge door stays for the hold."}
+{"n":373,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at High line. Nobody past the west stair. We hold in 4 steps. Direct on the left lane, open."}
+{"n":374,"kind":"place","name":"High line west stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line west stair. Matt keeps the badge door for the hold. 5 steps, direct on the left lane, open."}
