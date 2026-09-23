@@ -370,3 +370,6 @@
 {"n":370,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Ward gate. Nobody past the south gutter. We hold in 4 steps. Direct on the left lane, open."}
 {"n":371,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate south gutter. Bess keeps the rebar for the hold. 5 steps, direct on the left lane, open."}
 {"n":372,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south gutter. direct left open. 6 steps. The rebar stays for the hold."}
+{"n":373,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Kessler alley. Nobody past the south gutter. We hold in 7 steps. Direct on the left lane, open."}
+{"n":374,"kind":"place","name":"Kessler alley south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley south gutter. Matt keeps the rebar for the hold. 8 steps, direct on the left lane, open."}
+{"n":375,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south gutter. direct left open. 2 steps. The rebar stays for the hold."}
