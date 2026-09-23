@@ -879,3 +879,6 @@
 {"n":879,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at the Lot. Nobody past the north gutter. We hold in 4 steps. Direct on the left lane, open."}
 {"n":880,"kind":"place","name":"the Lot north gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot north gutter. Ivo keeps the awning for the hold. 5 steps, direct on the left lane, open."}
 {"n":881,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north gutter. direct left open. 6 steps. The awning stays for the hold."}
+{"n":882,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at the Lot. Nobody past the north gutter. We hold in 7 steps. Direct on the left lane, open."}
+{"n":883,"kind":"place","name":"the Lot north gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot north gutter. Bess keeps the awning for the hold. 8 steps, direct on the left lane, open."}
+{"n":884,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north gutter. direct left open. 2 steps. The awning stays for the hold."}
