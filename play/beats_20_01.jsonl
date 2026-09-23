@@ -170,3 +170,6 @@
 {"n":170,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Drydock. Nobody past the north gutter. We hold in 8 steps. Direct on the left lane, open."}
 {"n":171,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock north gutter. Bess keeps the drum for the hold. 2 steps, direct on the left lane, open."}
 {"n":172,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north gutter. direct left open. 3 steps. The drum stays for the hold."}
+{"n":173,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at High line. Nobody past the north gutter. We hold in 4 steps. Direct on the left lane, open."}
+{"n":174,"kind":"place","name":"High line north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line north gutter. Matt keeps the drum for the hold. 5 steps, direct on the left lane, open."}
+{"n":175,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north gutter. direct left open. 6 steps. The drum stays for the hold."}
