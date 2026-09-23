@@ -185,3 +185,6 @@
 {"n":185,"kind":"place","name":"Switchyard west stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west stair. Nia keeps the drum for the hold. 5 steps, direct on the left lane, open."}
 {"n":186,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west stair. direct left open. 6 steps. The drum stays for the hold."}
 {"n":187,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Switchyard. Nobody past the west stair. We hold in 7 steps. Direct on the left lane, open."}
+{"n":188,"kind":"place","name":"Switchyard west stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west stair. Ivo keeps the drum for the hold. 8 steps, direct on the left lane, open."}
+{"n":189,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west stair. direct left open. 2 steps. The drum stays for the hold."}
+{"n":190,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Switchyard. Nobody past the west stair. We hold in 3 steps. Direct on the left lane, open."}
