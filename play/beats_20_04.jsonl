@@ -779,3 +779,6 @@
 {"n":779,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at the Underpass. Nobody past the west stair. We hold in 5 steps. Direct on the left lane, open."}
 {"n":780,"kind":"place","name":"the Underpass west stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass west stair. Ivo keeps the shutter for the hold. 6 steps, direct on the left lane, open."}
 {"n":781,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west stair. direct left open. 7 steps. The shutter stays for the hold."}
+{"n":782,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at the Underpass. Nobody past the west stair. We hold in 8 steps. Direct on the left lane, open."}
+{"n":783,"kind":"place","name":"the Underpass west stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass west stair. Bess keeps the shutter for the hold. 2 steps, direct on the left lane, open."}
+{"n":784,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west stair. direct left open. 3 steps. The shutter stays for the hold."}
